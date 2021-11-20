@@ -1,5 +1,15 @@
 # Глава 2 - Tileset
 
+## Автоматическое затенение
+Автоматическое затенение может сделать экраны в игре намного лучше. Если этот режим активирован, MTE MK1 заставит тайлы препятствий отбрасывать тени друг на друга. 
+Для этого необходимо определить альтернативную версию тайлов, которые помещаются в нижнюю строку tileset. Например, это набор тайлов Cheril Perils:
+
+![img.png](https://raw.githubusercontent.com/mojontwins/MK1/master/docs/wiki-img/02_ts_perils.png)
+
+Полученный результат ниже:
+
+![img.png](https://raw.githubusercontent.com/mojontwins/MK1/master/docs/wiki-img/02_perils.png)
+
 ## Примеры
 Рассмотрим примеры tileset'ов
 Здесь у нас есть набор тайлов из игры Lala lah:
