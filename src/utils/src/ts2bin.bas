@@ -99,7 +99,7 @@ Sub usage
 	puts ("ts2bin 0.2")
 	puts ("usage")
 	puts ("")
-	puts ("$ ts2bin work.png/nofont work.png ts.bin [forcezero]")
+	puts ("$ ts2bin font.png/nofont work.png ts.bin [forcezero]")
 	Puts ("")
 	Puts ("where:")
 	Puts ("   * font.png is a 256x16 file with 64 chars ascii 32-95")
